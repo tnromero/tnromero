@@ -1,4 +1,19 @@
 ### Hi there 👋
+---
+...
+
+### Expertises 🚀
+---
+...
+
+### Tech Stack 💻
+---
+...
+
+### Socials 💻
+---
+![image](https://github.com/tnromero/tnromero/assets/5274098/6cd35c1d-f1d3-431b-a5b6-755e63d97b90)
+
 
 <!--
 **tnromero/tnromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
