@@ -12,7 +12,7 @@
 
 ### Socials 💻
 ---
-![image](https://github.com/tnromero/tnromero/assets/5274098/6cd35c1d-f1d3-431b-a5b6-755e63d97b90)
+[![image](https://github.com/tnromero/tnromero/assets/5274098/6cd35c1d-f1d3-431b-a5b6-755e63d97b90)](https://www.linkedin.com/in/tnromero/)
 
 
 <!--
