@@ -8,11 +8,11 @@
 
 ### Tech Stack 💻
 ---
-...
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 
 ### Socials 💻
 ---
-[![image](https://github.com/tnromero/tnromero/assets/5274098/6cd35c1d-f1d3-431b-a5b6-755e63d97b90)](https://www.linkedin.com/in/tnromero/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tnromero/)
 
 
 <!--
