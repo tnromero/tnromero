@@ -23,6 +23,32 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tnromero/)
 
+## 🏗️ Data Engineering
+
+AWS, Spark, Iceberg, Glue e plataformas de dados.
+
+👉 [Ver meus projetos de Data Engineering](https://github.com/search?q=user%3Atnromero+topic%3Adata-engineering&type=repositories)
+
+
+## ☁️ AWS
+
+Projetos e experimentos relacionados à AWS.
+
+👉 [Ver meus projetos AWS](https://github.com/search?q=user%3Atnromero+topic%3Aaws&type=repositories)
+
+
+## 🧊 Apache Iceberg
+
+Experimentos e estudos com Apache Iceberg.
+
+👉 [Ver meus projetos Iceberg](https://github.com/search?q=user%3Atnromero+topic%3Aapache-iceberg&type=repositories)
+
+
+## 🐍 Python
+
+Projetos desenvolvidos em Python.
+
+👉 [Ver meus projetos Python](https://github.com/search?q=user%3Atnromero+topic%3Apython&type=repositories)
 
 <!--
 **tnromero/tnromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
